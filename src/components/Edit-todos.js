@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Edit-todos extends Component {
+class EditTodos extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ class Edit-todos extends Component {
     }
 }
 
-export default Edit-todos;
+export default EditTodos;

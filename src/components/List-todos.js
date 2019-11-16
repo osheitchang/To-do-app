@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 
-export default class Todos-Lists extends Component {
+export default class ListTodos extends Component {
     render() {
-        let name ="osheit"
         return (
             <div>
                 <p>welcome to the todo list</p>
@@ -11,4 +10,4 @@ export default class Todos-Lists extends Component {
     }
 }
 
-// export default Todos-Lists;
+// export default ListTodos;
